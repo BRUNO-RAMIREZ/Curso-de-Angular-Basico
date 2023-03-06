@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+}
+
+.col {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+
+li:hover {
+  background-color: darkseagreen;
+  cursor: pointer;
+}
