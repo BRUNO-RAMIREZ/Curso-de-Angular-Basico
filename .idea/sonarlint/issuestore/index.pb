@@ -1,3 +1,23 @@
 
 O
 bases/src/app/app.component.css,7\5\75b0958ea0185da839b855aedc5f611db2bb23e1
+e
+5bases/src/app/dbz/personajes/personajes.component.css,e\1\e1e1c4a5f2fe121f1c1f76ab34fb1042e128738a
+b
+2bases/src/app/dbz/main-page/main-page.component.ts,d\6\d6e0fef71b91a356700cc064ece9a29df6d8166a
+Y
+)bases/src/app/dbz/services/dbz.service.ts,f\6\f652fc6cda350446cd523f17895e067d3c6f594b
+O
+bases/src/app/dbz/dbz.module.ts,c\d\cde0c7528ed7de6eeb67e331b6b08b1d1a06fd97
+K
+bases/src/app/app.module.ts,c\0\c070f023b3ac234cc600f383752a4fbfd6bb6964
+[
++bases/src/app/dbz/models/personaje.model.ts,4\7\47451ce4189bd60f77bd2a0ac041542087d42a1e
+d
+4bases/src/app/dbz/main-page/main-page.component.html,9\b\9ba260adef79e57828000605f30508787367b4a8
+d
+4bases/src/app/dbz/personajes/personajes.component.ts,2\9\294b3c86315149318ccf79cc31621860d134bcdc
+f
+6bases/src/app/dbz/personajes/personajes.component.html,1\d\1d4280b0acb6f2e10b98be2ab13cab3caf61f0f3
+r
+Bbases/src/app/dbz/agregar-personaje/agregar-personaje.component.ts,7\7\77449a42b33387da3e770632762c3345c86103ba
