@@ -4,63 +4,8 @@
   width: 100%;
 }
 
-.gifs-sidebar {
-  background-color: #000000;
-  min-height: 100vh;
-  width: 180px;
-  text-align: center;
-
-  &-title {
-    box-sizing: border-box;
-    color: #ffffff;
-    padding-top: 15px;
-  }
-
-  .hr {
-    background-color: #ffffff;
-    height: 5px;
-  }
-
-  &-list {
-    display: flex;
-    margin: 0 10px;
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  &-list-item {
-    background-color: #c7f5ff;
-    border-radius: 5px;
-    box-sizing: border-box;
-    color: #000000;
-    padding: 10px;
-    text-decoration: none;
-
-    &:hover {
-      background-color: #19abff;
-    }
-  }
-}
-
-
 .gifs-right-panel {
   box-sizing: border-box;
   margin: 20px;
   width: 100%;
-
-  &-search-box {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 100%;
-  }
-
-  &-search-box-title {
-    font-size: 25px;
-  }
-
-  &-search-box-input {
-    border-radius: 10px;
-    box-sizing: border-box;
-    padding: 8px;
-  }
 }
